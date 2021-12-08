@@ -170,5 +170,10 @@ public class Day2function {
         }
         return  ans;
     }
+    void basemultiply(int n,int m)
+    {
+
+    }
+
 
 }
